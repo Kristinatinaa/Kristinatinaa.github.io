@@ -1,0 +1,258 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.port {
+  margin-top: 84px;
+}
+.folio {
+  margin-top: 168px;
+}
+
+.navbar {
+  background: slateblue;
+}
+#start {
+  background: slateblue;
+}
+#riwayat {
+  background: slateblue;
+}
+#skill {
+  background: slateblue;
+}
+.ftr {
+  background: slateblue;
+}
+.ttxt {
+  color: #ffff;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.nav-link {
+  color: #ffff;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 15px;
+}
+
+.font1 {
+  color: black;
+}
+
+.nav-item {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.nama1 {
+  font-family: Inknut Antiqua;
+  font-size: 50px;
+  text-align: end;
+  color: #ffff;
+}
+
+.nama2 {
+  font-family: Instrument Serif;
+  font-size: 34px;
+  text-align: end;
+  margin-top: -10px;
+  color: #ffff;
+}
+
+.img1 {
+  width: 350px;
+  height: auto;
+  margin-top: 100px;
+}
+
+.text1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 18px;
+  margin-top: 30px;
+  margin-left: 40px;
+  text-align: justify;
+  color: #ffff;
+}
+
+#project {
+  background: slateblue;
+}
+.text2 {
+  font-family: Inknut Antiqua;
+  font-size: 15px;
+  color: #ffff;
+  text-align: center;
+}
+.hello {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  color: #ffff;
+  margin-top: 15px;
+}
+.hellonine {
+  width: 350px;
+  height: auto;
+}
+.lookal {
+  width: 350px;
+  height: auto;
+}
+.lo {
+  color: #ffff;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.rcau {
+  width: 350px;
+  height: auto;
+}
+.rc {
+  color: #ffff;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.snlg {
+  width: 350px;
+  height: auto;
+}
+.sn {
+  color: #ffff;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.bi-linkedin {
+  font-size: 24px;
+  color: #ffff;
+}
+.bi-envelope-at {
+  font-size: 24px;
+  color: #ffff;
+}
+.bi-instagram {
+  font-size: 24px;
+  color: #ffff;
+}
+.gambar2 {
+  height: auto;
+  width: 250px;
+  margin-left: -190px;
+  margin-top: -80px;
+}
+.text3 {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #ffff;
+}
+
+.img2 {
+  width: 200px;
+  height: auto;
+  align-items: center;
+}
+
+.text-p {
+  margin-left: 20px;
+}
+
+.card {
+  height: 80px;
+  width: 300px;
+  margin-left: 100px;
+  margin-bottom: 20px;
+}
+.text4 {
+  text-align: end;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #ffff;
+}
+
+.text5 {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #ffff;
+}
+
+.paragraf4 {
+  text-align: end;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #ffff;
+}
+
+.text6 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: justify;
+  color: #ffff;
+}
+
+.surat {
+  width: 300px;
+  height: 400px;
+}
+
+.text7 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #ffff;
+}
+
+.paragraf7 {
+  text-align: start;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #ffff;
+  text-align: justify;
+}
+.sap {
+  width: 300px;
+  height: 400px;
+}
+.sap-a {
+  margin-top: 120px;
+}
+.mgng-a {
+  margin-top: 50px;
+}
+
+.text8 {
+  text-align: justify;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #ffff;
+}
+
+.waviy {
+  position: relative;
+  -webkit-box-reflect: below -30px linear-gradient(transparent, rgba(0, 0, 0, 0.2));
+  font-size: 60px;
+}
+
+@media (max-width: 760px) {
+  .nama1 {
+    text-align: center;
+  }
+  .nama2 {
+    text-align: center;
+  }
+  .img1 {
+    display: none;
+  }
+  .text1 {
+    margin-left: 0px;
+  }
+  .card {
+    margin-left: -40px;
+  }
+  .gambar2 {
+    display: none;
+  }
+}
